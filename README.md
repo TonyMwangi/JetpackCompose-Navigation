@@ -20,8 +20,10 @@
 ## Final Product Screen Navigation ScreenShots <br><br><br>
 <p align="center">
   <img alt="Start destination or Landing page " src="./Screenshot_20230404-071914.png" width="30%">
-&nbsp; &nbsp;<img alt="Detail Screen" src="./Screenshot_20230404-071924.png" width="30%">
-  
-  
+     &nbsp; &nbsp;
+  <img alt="Detail Screen" src="./Screenshot_20230404-071924.png" width="30%">
+     &nbsp; &nbsp;
+  <img alt="Rate us Screen" src="./Screenshot_20230404-071934.png" width="30%">
+ 
 </p>
 
