@@ -17,7 +17,7 @@
 6. Add a button at the center of details screen written "Rate us" which when clicked, it navigates the user to rating screen and you navigate to screen with some rating i.e 4.5. Once a user is taken to the rating screen, display the rating at the center of the screen.
 7. Also make sure details and rating screen have a TopAppBar, that has a navigation icon that when clicked, it navigates the user to the previous screen
 
-## Final Product Screen Navigation ScreenShots <br><br><br>
+## Jetpack Compose Navigation ScreenShots <br><br><br>
 <p align="center">
   <img alt="Start destination or Landing page " src="./Screenshot_20230404-071914.png" width="30%">
      &nbsp; &nbsp;
